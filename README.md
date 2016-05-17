@@ -1,2 +1,3 @@
 # hello-world
 My coding venture starts here...
+I want to learn Javascript and its frameworks
